@@ -12,15 +12,22 @@ namespace EstudandoMVC.Controllers
         {
             _logger = logger;
         }
-
+        //public IActionResult Nav()
+        //{
+        //    CompanyModel company = new CompanyModel();
+        //    company.Id = 1;
+        //    company.Nome = "Code.Teste";
+        //    company.Cnpj = 12414114;
+        //    return View(company);
+        //}
         public IActionResult Index()
         {
             HomeModel home = new HomeModel();
             home.Id = 1;
             home.Nome = "João Victor";
             home.Email = "example@gmail.com";
-            home.ValorPago = 99;
-            home.ValorFinal = home.ValorPago + 33;
+            home.Funcao = "Programador";
+            home.Salario = 3000;
             return View(home);
         }
 
