@@ -7,7 +7,11 @@ namespace EstudandoMVC.Models
 {
     public class HomeModel
     {
+        public int Id { get; set; }
         public string Nome { get; set; }
         public string Email { get; set; }
+
+        public int ValorPago { get; set; }
+        public int ValorFinal { get; set; }
     }
 }

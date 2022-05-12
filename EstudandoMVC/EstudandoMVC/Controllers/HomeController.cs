@@ -16,8 +16,11 @@ namespace EstudandoMVC.Controllers
         public IActionResult Index()
         {
             HomeModel home = new HomeModel();
+            home.Id = 1;
             home.Nome = "João Victor";
             home.Email = "example@gmail.com";
+            home.ValorPago = 99;
+            home.ValorFinal = home.ValorPago + 33;
             return View(home);
         }
 

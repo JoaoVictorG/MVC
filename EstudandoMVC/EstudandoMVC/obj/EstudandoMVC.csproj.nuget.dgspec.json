@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\github\\MVC\\EstudandoMVC\\EstudandoMVC\\EstudandoMVC.csproj": {}
+    "D:\\github\\MVC\\EstudandoMVC\\EstudandoMVC\\EstudandoMVC.csproj": {}
   },
   "projects": {
-    "C:\\github\\MVC\\EstudandoMVC\\EstudandoMVC\\EstudandoMVC.csproj": {
+    "D:\\github\\MVC\\EstudandoMVC\\EstudandoMVC\\EstudandoMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\github\\MVC\\EstudandoMVC\\EstudandoMVC\\EstudandoMVC.csproj",
+        "projectUniqueName": "D:\\github\\MVC\\EstudandoMVC\\EstudandoMVC\\EstudandoMVC.csproj",
         "projectName": "EstudandoMVC",
-        "projectPath": "C:\\github\\MVC\\EstudandoMVC\\EstudandoMVC\\EstudandoMVC.csproj",
-        "packagesPath": "C:\\Users\\joaov\\.nuget\\packages\\",
-        "outputPath": "C:\\github\\MVC\\EstudandoMVC\\EstudandoMVC\\obj\\",
+        "projectPath": "D:\\github\\MVC\\EstudandoMVC\\EstudandoMVC\\EstudandoMVC.csproj",
+        "packagesPath": "C:\\Users\\Dev Victor\\.nuget\\packages\\",
+        "outputPath": "D:\\github\\MVC\\EstudandoMVC\\EstudandoMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\joaov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dev Victor\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\github\\References\\NuGET": {},
+          "D:\\github\\FMobile\\vs-sln\\FMobile.WinApp": {},
+          "D:\\github\\References\\NuGET": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
